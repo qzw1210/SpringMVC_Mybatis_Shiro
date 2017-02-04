@@ -168,5 +168,5 @@ maven 运行tomcat7:run。
     	<scope>provided</scope>
     </dependency>
 
-如果还是不能解决问题，请在官方群（群号：259217951）内搜索“jstl” 如图下载依赖包。
+
 
